@@ -1,7 +1,7 @@
 # LaneNet
 
 ## Network architecture
-![image](./test_images/LaneNet_Architecture.PNG)
+![image](./test_images/LaneNet_Architecture.png)
 
 ## Dataset
 
