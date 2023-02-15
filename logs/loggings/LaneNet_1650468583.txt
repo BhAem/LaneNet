@@ -1,0 +1,3 @@
+time:0.27227258682250977, Total Loss:34.46245193481445, Segmentation Loss:0.7448429465293884, Discriminative Loss:33.71760940551758
+time:0.24434733390808105, Total Loss:27.065032958984375, Segmentation Loss:0.6863561272621155, Discriminative Loss:26.378677368164062
+time:0.27881741523742676, Total Loss:nan, Segmentation Loss:0.6432963013648987, Discriminative Loss:nan
